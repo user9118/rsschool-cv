@@ -3,6 +3,8 @@
 ## Contacts
  - **Location:** Moscow, Russia 
  - **E-mail:** a.moskovkin@gmail.com
+ - **GitHub** user9118
+ - **Discord** AndreyM 
 
 ## About Myself
 I have 6 years of experience in technical support and system administration.
