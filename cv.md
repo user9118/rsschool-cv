@@ -5,7 +5,9 @@
  - **E-mail:** a.moskovkin@gmail.com
 
 ## About Myself
-Активно изучаю Frontend. До этого 6 лет работал в технической поддержки сотрудников и системном администрировании. Их всех it направлений Frontend понравился больше всего. Буду дальге расти в этом направлении. Так же интересен react native и nodJS.
+I have 6 years of experience in technical support and system administration.
+I liked Frontend the most from all of the IT areas. I currently practicing HTML\CSS and intensively learning JS.
+After that I am planning to learn react native and nodJS.
 
 ## Skills
 - **Git** - GitHub
