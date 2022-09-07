@@ -1,1 +1,1 @@
-https://user9118.github.io/rsschool-cv/index
+https://user9118.github.io/rsschool-cv/
