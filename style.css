@@ -1,0 +1,9 @@
+div{
+  font-size: 16px;
+  max-width: 1200px;
+  color: rgb(6, 20, 20);
+  border-radius: 20px;
+  background-color: bisque;
+  padding: 10px;
+  margin: 0 auto;
+}
